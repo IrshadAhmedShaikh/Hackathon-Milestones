@@ -1,0 +1,98 @@
+body    {
+    margin:30px;
+    font-family:century;
+    font-size: 20px;
+    padding: 5px;;
+    background-color: rgb(255, 255, 197);
+    ;
+    
+}
+h1  {
+    color: black;
+    text-align: center;
+    font-size: 24pt;
+    
+
+}
+
+form{
+    max-width:600px;
+    margin:auto;
+    background-color: rgb(214, 227, 231);
+    border-radius: 5px;
+    box-shadow:0 4px 8px rgb(49, 49, 131);
+    padding: 20px;
+    padding-top: 30px;
+}
+fieldset {
+    font-family: century;
+    font-size: auto;
+    border: 2px solid rgb(6, 133, 133);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 5px;
+    background-color: rgb(179, 207, 235);
+
+}
+legend {
+text-align: left;
+font-weight: bold;  
+margin-top: 10px;  
+}
+label {
+    display:inline-block;
+    margin-bottom: 10px;
+    color: black;
+
+}
+input,textarea {
+    width:calc(100% - 15px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(73, 84, 95);
+    border-radius: 4px;
+    box-sizing:border-box;
+
+}
+
+button {
+    width: 100%;
+    font-family: century;
+    background-color: rgb(38, 212, 38);
+    color:black;
+    margin-top: 10px;
+    border: 2px solid rgb(6, 133, 133);
+     padding: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+
+    
+}
+button:hover{
+    background-color: green;
+}
+
+
+#resumeoutput {
+    max-width: 600px;
+    margin:auto;
+    padding: 20px;
+    border: 2px solid rgb(6, 133, 133) ;
+    border-radius: 5px;
+    background-color:  rgb(179, 207, 235);
+    box-shadow: 0 4px 8px rgb(49, 49, 131);
+    
+}
+
+
+#resumeoutput h2 {
+    color:  black;
+    font-size: 20pt;
+    font-family: century;
+    padding: auto;
+    margin: auto;
+}
+
+
+
